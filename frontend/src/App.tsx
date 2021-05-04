@@ -16,13 +16,13 @@ function App() {
           <BarChart/>
         </div>
         <div className="col-sm-6">
-          <h5 className="text-center text-secondary">Instructor's Info</h5>
+          <h5 className="text-center text-secondary">Quantity of Classes</h5>
           <DonutChart/>
         </div>
       </div>
 
       <div className="py-3">
-        <h2 className="text-primary">Quantity of Classes</h2>
+        <h2 className="text-primary">All classes</h2>
       </div>
       <DataTable/>
     </div>
