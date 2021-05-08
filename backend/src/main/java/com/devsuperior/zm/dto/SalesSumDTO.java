@@ -5,7 +5,7 @@ import java.io.Serializable;
 import com.devsuperior.zm.entities.Seller;
 
 public class SalesSumDTO implements Serializable{
-	
+	private static final long serialVersionUID = 1L;
 	private String sellerName;
 	private Double sum;
 	
