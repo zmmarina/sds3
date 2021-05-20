@@ -2,7 +2,7 @@
 
 <h2> :pencil: Features </h2>
 <ul>
-  <li>Consuming data by API Rest</li>
+  <li>Consuming data - API Rest</li>
   <li>Charts and tables automatically updated</li>
   <li>User interaction with data</li>
 </ul>
