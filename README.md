@@ -11,7 +11,7 @@
 <ul>
   <li>React</li>
   <li>Bootstrap</li>
-  <li>Typescript</li>
+  <li>TypeScript</li>
   <li>Spring Boot</li>
   <li>Java</li> 
 </ul>
